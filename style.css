@@ -97,7 +97,7 @@ padding-bottom: 11px;
 }
 /* logo styling end */
 
-/* checkbtn btn styleing  */
+/* checkbtn btn styleing  start */
 .checkbtn{
   display: flex;
   flex-direction: column;
@@ -110,7 +110,7 @@ padding-bottom: 11px;
   display: none;
 }
 
-/*  */
+/*  checkbtn btn styleing  end  */
 
 /* ul li and a styling  start*/
 ul{
